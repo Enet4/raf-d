@@ -1,5 +1,5 @@
 # raf-d
-Random Access range for File Access in D
+Random access range for file access in D
 
 ## What's this about?
 
@@ -21,6 +21,6 @@ This implementation provides a compliant random access range for a generic eleme
 
 Currently, only file reading is supported.
 
-## Can I use this code for X?
+## Can I use this code for --?
 
 You can do anything with the code as long as it complies to the MIT license.
